@@ -1,11 +1,7 @@
-Siap 👍
-Berikut **full 1-page README (English)** yang **concise, clear, dan portfolio-ready**, dengan **Conclusion & Recommendation digabung jadi satu section** sesuai permintaan kamu.
+# RFM Analysis & Marketing Campaign Strategy Optimization
+Analyzing Supermarket Customer Data
 
----
-
-# 🛒 Supermarket Customer Data Analysis
-
-## RFM Analysis & Marketing Campaign Strategy Optimization
+Data Source: [Data Source](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign)
 
 ---
 
