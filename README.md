@@ -63,4 +63,4 @@ To improve marketing efficiency and long-term revenue growth, the company should
 
 ## 7. Key Takeaway
 
-> **RFM-driven segmentation enables more effective marketing and stronger customer retention to support business and revenue growth through data-driven decision making.**
+> **RFM-driven segmentation enables more effective marketing campaign strategy and stronger customer retention to support business and revenue growth through data-driven decision making.**
