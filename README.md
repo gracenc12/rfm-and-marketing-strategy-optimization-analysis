@@ -23,7 +23,7 @@ Marketing campaigns currently show **low acceptance rates** and rely heavily on 
 
 ---
 
-## 3. Objectives
+## 3. Goals/Objectives
 
 * Identify characteristics of **high-value customers**
 * Segment customers using **RFM analysis**
