@@ -40,10 +40,10 @@ In a multichannel supermarket retail business, the company lacks a comprehensive
 
 The analysis shows that customer behavior and value vary significantly across RFM segments, making **mass marketing strategies ineffective**.
 
-To improve marketing efficiency and long-term revenue growth, the company should:
+To improve marketing campaign efficiency and long-term revenue growth, the company should:
 
 * **Implement RFM-based customer segmentation** to replace mass marketing with targeted and personalized strategies.
-* **Apply different marketing and retention approaches for each RFM segment**, aligned with customer behavior (Recency, Frequency, and Monetary).
+* **Apply different marketing campaign and retention approaches for each RFM segment**, aligned with customer behavior (Recency, Frequency, and Monetary).
 
 ---
 
