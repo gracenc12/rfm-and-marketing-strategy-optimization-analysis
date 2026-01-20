@@ -16,10 +16,7 @@ This project applies **data-driven analysis** to **understand customer behavior*
 
 ## 2. Problem Statement
 
-Marketing campaigns currently show **low acceptance rates** and rely heavily on **mass marketing approaches**, leading to inefficient budget allocation and suboptimal revenue growth.
-
-**Key Question:**
-- How can **customer behavior be segmented and analyzed to improve marketing effectiveness, customer retention** to support revenue growth?
+In a multichannel supermarket retail business, the company lacks a comprehensive understanding of diverse customer purchasing behaviors across channels and faces low marketing campaign effectiveness due to mass-oriented strategies, which may increase customer churn risk and reduce customer loyalty. This analysis aims to address how customer behavior can be understood and segmented to enable targeted marketing campaigns and tailored retention strategies to drive campaign effectiveness and revenue growth.
 
 ---
 
