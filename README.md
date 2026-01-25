@@ -29,10 +29,9 @@ In a multichannel supermarket retail business, the company lacks a comprehensive
 
 ---
 
-## 4. Tools & Technologies
+## 4. Tools (Tech Stack)
 
 * **Python** (Pandas, NumPy) for data processing and analysis and (Matplotlib, Seaborn) for visualization
-* **Tableau** for dashboard and insight presentation
 
 ---
 
